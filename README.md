@@ -6,7 +6,7 @@ The proposed system implements the sign language recognition using CNN. It has b
 
 10 alphabets classified -
 
-![image](https://user-images.githubusercontent.com/95165705/177188340-de05b787-c5cf-4d1a-8989-e5afbc6f62a4.png)
+![image](https://user-images.githubusercontent.com/95165705/177188457-aadfb5e5-1c52-48f5-91b3-65c9e1dca6ab.png)
 
 
 Overall Design -
@@ -16,4 +16,5 @@ Overall Design -
 
 Results -
 
-![image](https://user-images.githubusercontent.com/95165705/177188457-aadfb5e5-1c52-48f5-91b3-65c9e1dca6ab.png)
+
+![image](https://user-images.githubusercontent.com/95165705/177188340-de05b787-c5cf-4d1a-8989-e5afbc6f62a4.png)
